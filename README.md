@@ -1,4 +1,4 @@
-# ig_project_2
+# clone-instagram-flutter
 
 A new Flutter project.
 
